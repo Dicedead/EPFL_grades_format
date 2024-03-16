@@ -1,0 +1,4 @@
+mean current: 2.8142857142857145
+mean isa_once_a_day: 3.5171428571428573
+mean app_once_a_day: 3.157142857142857
+mean all_grades: 2.78
